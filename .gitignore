@@ -1,3 +1,7 @@
-/final
-/og
-/oslo
+og/*
+!og/.gitkeep
+final/*
+!final/.gitkeep
+oslo/*
+!oslo/.gitkeep
+node_modules
